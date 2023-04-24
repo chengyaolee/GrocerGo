@@ -1,0 +1,85 @@
+{
+  "name": "HACKS",
+  "description": "Blank Process",
+  "main": "GrocerGo.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.18.0-preview]",
+    "UiPath.Mail.Activities": "[1.18.2]",
+    "UiPath.System.Activities": "[23.2.0-preview]",
+    "UiPath.Testing.Activities": "[23.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.2.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.2.0.0",
+  "projectVersion": "1.0.3",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "0dd7cbdd-41ea-4e44-991f-708b21ec5325",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SimplifyNext Hackathon v1.8.xaml",
+      "uniqueId": "97ca72a2-be38-44e2-8d43-84188b97dbeb",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SimplifyNext Hackathon v1.7.1.xaml",
+      "uniqueId": "9133883c-2f3b-4c29-97b7-a31488f7565f",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SimplifyNext Hackathon v1.9.1.xaml",
+      "uniqueId": "3629db41-145c-421d-b3d9-91be92644f9c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GrocerGo.xaml",
+      "uniqueId": "2f0e160c-dee1-43d1-9670-22a86304d78e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
